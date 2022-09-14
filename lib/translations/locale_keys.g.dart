@@ -1,0 +1,62 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const smartWallet = 'smartWallet';
+  static const allowCreate = 'allowCreate';
+  static const quicklyCreate = 'quicklyCreate';
+  static const createManage = 'createManage';
+  static const gainControl = 'gainControl';
+  static const trackGain = 'trackGain';
+  static const loginFace = 'loginFace';
+  static const loginGoogle = 'loginGoogle';
+  static const signinApple = 'signinApple';
+  static const myWallet = 'myWallet';
+  static const anyWallet = 'anyWallet';
+  static const createNow = 'createNow';
+  static const wallets = 'wallets';
+  static const totalBalance = 'totalBalance';
+  static const availableWallets = 'availableWallets';
+  static const balance = 'balance';
+  static const upgradePremium = 'upgradePremium';
+  static const goPremium = 'goPremium';
+  static const createWallet = 'createWallet';
+  static const nameAccount = 'nameAccount';
+  static const type = 'type';
+  static const create = 'create';
+  static const walletName = 'walletName';
+  static const yourNameWallet = 'yourNameWallet';
+  static const done = 'done';
+  static const walletBalance = 'walletBalance';
+  static const walletType = 'walletType';
+  static const tapButton = 'tapButton';
+  static const transactions = 'transactions';
+  static const income = 'income';
+  static const expense = 'expense';
+  static const nameWallet = 'nameWallet';
+  static const createTransaction = 'createTransaction';
+  static const category = 'category';
+  static const note = 'note';
+  static const selectWallet = 'selectWallet';
+  static const expenseCategories = 'expenseCategories';
+  static const expand = 'expand';
+  static const searchCategory = 'searchCategory';
+  static const close = 'close';
+  static const incomeCategories = 'incomeCategories';
+  static const writeANote = 'writeANote';
+  static const wallet = 'wallet';
+  static const today = 'today';
+  static const editTransaction = 'editTransaction';
+  static const save = 'save';
+  static const discardChanges = 'discardChanges';
+  static const keepEditing = 'keepEditing';
+  static const accountSettings = 'accountSettings';
+  static const logout = 'logout';
+  static const profile = 'profile';
+  static const editWallet = 'editWallet';
+  static const getPremium = 'getPremium';
+  static const removeThisWallet = 'removeThisWallet';
+  static const removeThisTransaction = 'removeThisTransaction';
+  static const searchCurrency = 'searchCurrency';
+  static const currency = 'currency';
+
+}
