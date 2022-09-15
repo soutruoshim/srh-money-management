@@ -2,9 +2,9 @@
     package="com.srhdp.moneymangement">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="Monsey"
+        android:label="Srh Money Management"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
         <!-- MUST-CONFIG -->
         <!-- Your AdMob app ID Android-->
